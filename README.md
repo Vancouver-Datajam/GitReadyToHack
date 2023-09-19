@@ -1,14 +1,17 @@
-# Vancouver Datajam 2021 Project template 
-
-This repository contains a Python project template.
+# Vancouver Datajam 2023 Word Embeddings Project
 
 ## Project title
 
+This repository is for the Vancouver Datajam 2023 Hackathon
+
 ## Project statement
+
+[Docs link](https://docs.google.com/document/d/1ddp0HIiqsRI34lSTFTTODRwa6CtUydmuEtkwK--4S7Q/edit#heading=h.wvnno6t3l3j1)
+
 
 ## Project team members
 
-Team lead:
+Team lead: Khizr Ali Pardhan
 
 Mentor:
 
